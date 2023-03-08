@@ -1,0 +1,17 @@
+numbers = [2,-5,13,-7,6,-4];
+// size=numbers.lenght;
+size = 6
+count = 0;
+index = 0;
+//index<size
+for (i=0;i<size;i++){
+//numbers[index] > 0
+    if (numbers[i]>0){
+// count = count + 1
+        count++;
+    }
+// index= index + 1
+}
+
+print (count)
+
