@@ -43,7 +43,7 @@ _$ git status_ - просмотр текущего статуса ветки
 
 ```
 _$ git checkout [point/branch]_ - переход между точками/ветвями
-_$ git checkout -b [name]
+_$ git checkout -b [name]_ - переход на созданную ветку
 ```
 
 ## Работа с файлами
